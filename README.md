@@ -13,8 +13,8 @@
   <a href="https://www.youtube.com/">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="https://twitter.com/">
-    <img src="[https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=x&logoColor=white](https://x.com/oneyyedking)" alt="Twitter">
+  <a href="[https://twitter.com/](https://x.com/oneyyedking)">
+    <img src="[https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=x&logoColor=white]" alt="Twitter">
   </a>
 </p>
 
