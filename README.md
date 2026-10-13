@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://api.iconify.design/lucide:sparkles.svg?color=%23ffffff&width=50&height=50"
+    src="https://cdn.pixabay.com/animation/2024/07/23/19/52/19-52-56-478_512.gif"
     width="50"
     alt="Estrellas blancas"
   >
