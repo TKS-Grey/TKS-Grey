@@ -5,7 +5,7 @@
 <p align="center">
   <img
     src="https://cdn.pixabay.com/animation/2024/07/23/19/52/19-52-56-478_512.gif"
-    width="300"
+    width="400"
     alt="Estrellas blancas"
   >
 </p>
