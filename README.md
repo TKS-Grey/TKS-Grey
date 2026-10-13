@@ -3,18 +3,18 @@
 <hr>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="90" alt="Estrellas brillantes">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="80" alt="Decoración animada">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.youtube.com/">
+  <a href="https://www.youtube.com/" target="_blank">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="[https://twitter.com/](https://x.com/oneyyedking)">
-    <img src="[https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=x&logoColor=white]" alt="Twitter">
+  <a href="https://x.com/oneyyedking" target="_blank">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>
 </p>
 
