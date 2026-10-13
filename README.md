@@ -3,7 +3,11 @@
 <hr>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="80" alt="Decoración animada">
+  <img
+    src="https://api.iconify.design/lucide:sparkles.svg?color=%23ffffff&width=50&height=50"
+    width="50"
+    alt="Estrellas blancas"
+  >
 </p>
 
 <p align="center">
