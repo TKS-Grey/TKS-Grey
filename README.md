@@ -1,4 +1,4 @@
-<h1 align="center">Hello ✨ Welcome to My Github</h1>
+<img width="600" height="337" alt="image" src="https://github.com/user-attachments/assets/b110d745-3ce6-40ad-bf61-f561dee7846e" /><h1 align="center">Hello ✨ Welcome to My Github</h1>
 
 <hr>
 
@@ -33,4 +33,16 @@
   💻 Learning programming<br>
   🚀 Working on personal projects<br>
   🌟 Always learning something new
+</p>
+
+
+<hr>
+<h2 align="center"> This is everything, thanks for watch</h2>
+
+<p align="center">
+  <img
+    src="https://usagif.com/wp-content/uploads/gify/cinnamoroll-playing-bouncing-on-cloud-usagif.gif.webp"
+    width="400"
+    alt="Estrellas blancas"
+  >
 </p>
