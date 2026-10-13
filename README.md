@@ -18,10 +18,8 @@
   </a>
 </p>
 
-<br>
-
 <h2 align="center">✨ About Me ✨</h2>
-
+<hr>
 <p align="center">
   Hello! I'm a developer who enjoys learning programming
   and creating some projects.
